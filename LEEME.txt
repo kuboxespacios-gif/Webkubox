@@ -1,0 +1,9 @@
+WEB DE KUBOX
+
+Publicar: subí todo el contenido de esta carpeta a la raíz del hosting (public_html o similar). No requiere base de datos ni programación.
+
+Formulario: arma la consulta y la abre en WhatsApp (362 412-6835) o en el mail (kuboxespacios@gmail.com). El cliente toca enviar desde su app.
+
+Antes de publicar con dominio: abrí fuente/build.py, completá DOMINIO y REDES y corré "python3 fuente/build.py". Eso activa canonical, imagen para compartir y sitemap.
+
+Para actualizar modelos, textos o fotos: editá la sección DATOS de fuente/build.py y volvé a generar las páginas.
